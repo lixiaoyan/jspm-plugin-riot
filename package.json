@@ -1,0 +1,4 @@
+{
+  "main": "./riot.js",
+  "registry": "jspm"
+}
